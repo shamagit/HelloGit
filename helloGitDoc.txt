@@ -1,1 +1,2 @@
-helloGitDoc
+helloGitDoc line1
+helloGitDoc line2
